@@ -1,0 +1,112 @@
+body {
+    background-color: antiquewhite;
+    color: aliceblue;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 15px;
+   
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+  
+
+h1, h2, h3 {
+    font-size: 35px;
+    line-height: 5;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    color: black
+}
+
+
+
+header {
+    background color: antiquewhite;
+    height: 10px;
+    width: 600px;
+    margin: 100px;
+    padding: 10px;
+        text-align: center
+
+}
+
+
+nav ul {
+    
+}
+
+nav ul li
+{
+    display: inline;
+    background-color: azure;
+    padding: 10px 12px;
+    
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a: hover {
+    background-color: antiquewhite;
+}
+
+p {
+    line-height: 2;
+}
+
+
+/* anchorssss */
+
+a {
+    color: aliceblue;
+    background-color: white;
+}
+
+a:hover {
+    
+}
+
+a:visited {
+
+}
+
+a:active {
+    
+}
+
+
+nav {
+    background-color: aliceblue;
+   border: 5px white;
+    font-size: 19px;
+    margin-bottom: 100%;
+}
+
+main {
+    background-color: dimgray;
+     padding: 100px;
+    width: 450px;
+    margin: 100px;
+    
+}
+
+
+footer {
+    background-color: black;
+     padding: 10px;
+       
+}
+
+
+img {
+     margin: 5px;
+    width: 500px; 
+    padding: 10px;
+}
+
+
