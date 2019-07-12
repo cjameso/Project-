@@ -33,9 +33,10 @@ header {
 
 }
 
-
-nav ul {
-    
+@media screen and (max-device-width: 480px) {
+    .column {
+       float: none;
+    } 
 }
 
 nav ul li
